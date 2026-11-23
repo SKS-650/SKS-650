@@ -1,123 +1,124 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                SHYAM KISHOR SAH — GitHub Profile README        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================
+     SHYAM KISHOR SAH  ·  GitHub Profile README  ·  2025
+     ============================================================ -->
 
 <div align="center">
 
-<!-- Animated Gradient Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shyam%20Kishor%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- ░░░ HERO BANNER — Vortex animated gradient ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:0d0d0d,30:1a0533,60:2d1b69,100:0d0d0d&height=280&section=header&text=Shyam%20Kishor%20Sah&fontSize=58&fontColor=FFFFFF&fontAlignY=42&stroke=7C3AED&strokeWidth=2&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=62&descFontColor=C4B5FD&animation=fadeIn" width="100%" />
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🤖+AI+%26+Machine+Learning+Engineer;🌐+Full+Stack+Web+Developer;🧠+Deep+Learning+%26+Computer+Vision;🔬+Open+Source+Contributor;🚀+Building+the+Future+with+Code" alt="Typing SVG" />
-</a>
+<!-- ░░░ ANIMATED TYPING LINE ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision+Engineer;🌐+Full+Stack+%7C+Django+%7C+React+%7C+Node.js;�+Exploring+LLMs%2C+Agents+%26+Transformers;🚀+From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+—+Building+for+the+World" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile View Badge + Followers + Stars -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SKS-650&label=Profile+Views&color=7c3aed&style=for-the-badge&logo=eye" />
-  <img src="https://img.shields.io/github/followers/SKS-650?label=Followers&style=for-the-badge&color=5b21b6&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML%20Research-blueviolet?style=for-the-badge&logo=openai" />
-</p>
+<!-- ░░░ SOCIAL LINKS — Animated Icon Row ░░░ -->
+<a href="https://github.com/SKS-650">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shyam-kishor-sah-614605356/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@shyamkishorsah789">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://shyamkishorsah.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- ░░░ PROFILE STAT BADGES ░░░ -->
+<img src="https://komarev.com/ghpvc/?username=SKS-650&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/SKS-650?label=Followers&style=for-the-badge&color=5b21b6&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧬 About Me
+<!-- ░░░░░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░░░░░ -->
 
-```yaml
-Name        : Shyam Kishor Sah
-Role        : Computer Engineering Student & AI/ML Developer
-Location    : Nepal 🇳🇵
-Website     : https://shyamkishorsah.com.np
-GitHub      : https://github.com/SKS-650
-Focus       : AI Research • Full Stack Dev • Computer Vision • Smart Systems
-Status      : Open to Collaborations & Research Opportunities
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" alt="Coder GIF" />
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+
+```python
+class ShyamKishorSah:
+    location   = "Nepal 🇳🇵"
+    education  = "B.E. Computer Engineering"
+    email      = "shyamkishorsah.com.np"
+    
+    passions   = ["AI Research", "Computer Vision",
+                  "Full Stack Dev", "Open Source"]
+    
+    currently  = ["YOLOv8 & Object Detection",
+                  "LLMs & AI Agents",
+                  "MLOps & Model Deployment",
+                  "Transformers & NLP"]
+    
+    philosophy = "Learn → Build → Fail → Improve → Innovate 🔁"
+    
+    fun_fact   = "I think in algorithms & dream in Python 🐍"
 ```
 
-<img align="right" alt="Coding GIF" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<br/>
 
-- 🎓 **Computer Engineering** student with a research mindset  
-- 🤖 Building intelligent systems with **ML, DL & Computer Vision**  
-- 🌐 Crafting scalable web apps as a **Full Stack Developer**  
-- 🛰️ Exploring **IoT, Smart Systems & Embedded AI**  
-- ☁️ Learning **DevOps, Cloud Architecture & MLOps**  
-- � Currently diving deep into **YOLOv8, LLMs & AI Agents**  
-- 💡 Believer in learning by building — *ideas → code → impact*  
-- � Reach me: **[shyamkishorsah.com.np](https://shyamkishorsah.com.np)**
+- 🎓 **Computer Engineering** student with a research mindset
+- 🤖 Engineering **AI/ML systems** that solve real-world problems
+- 🌐 Crafting scalable apps with **Django · React · Node.js**
+- �️ Deep into **Computer Vision** — YOLO, OpenCV, CNNs
+- 🧬 Fascinated by **LLMs, Transformers & Generative AI**
+- ☁️ Levelling up in **MLOps, Docker, Cloud & DevOps**
+- 💡 Believer: *ideas → code → impact*
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ░░░░░░░░░░░░░░░░░░░░  SKILLS GRID  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;Tech Stack
+
+### 🔤 Languages
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SKS--650-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SKS-650)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shyam%20Kishor%20Sah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kishor-sah-614605356/)
-[![YouTube](https://img.shields.io/badge/YouTube-@shyamkishorsah789-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shyamkishorsah789)
-[![Website](https://img.shields.io/badge/Portfolio-shyamkishorsah.com.np-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shyamkishorsah.com.np/)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,typescript&theme=dark&perline=6" />
 
 </div>
 
----
-
-## �️ Tech Stack & Skills
-
-### � Programming Languages
+### 🌐 Frontend
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark&perline=6" />
 
 </div>
 
-### 🌐 Frontend Development
+### ⚙️ Backend & APIs
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,flask,fastapi,graphql&theme=dark&perline=6" />
 
 </div>
 
-### ⚙️ Backend Development
+### 🤖 AI · ML · Data Science
 
 <div align="center">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda,jupyter&theme=dark&perline=6" />
 
 </div>
 
-### 🤖 AI / ML / Data Science
-
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+| Library | Library | Library | Library | Library |
+|:---:|:---:|:---:|:---:|:---:|
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=flat-square&logoColor=black) | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black) |
 
 </div>
 
@@ -125,141 +126,220 @@ Status      : Open to Collaborations & Research Opportunities
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark&perline=5" />
 
 </div>
 
-### ☁️ DevOps, Cloud & Tools
+### ☁️ DevOps · Cloud · Tools
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,postman,figma&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SKS-650&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&border_radius=10" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKS-650&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&border_radius=10" height="180em" />
+<a href="https://github.com/SKS-650">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKS-650&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD9E5&ring_color=7C3AED&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKS-650&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD9E5&langs_count=8" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SKS-650&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=10" width="600"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SKS-650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
+<img src="https://streak-stats.demolab.com?user=SKS-650&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=CDD9E5&dates=CDD9E5&border_radius=8" width="620" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- ░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKS-650&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SKS-650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&no-bg=true" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ░░░░░░░░░░░░░░░░░░░░  ACTIVITY GRAPH  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKS-650&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=true&radius=8" width="100%" />
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKS-650/SKS-650/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SKS-650/SKS-650/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKS-650/SKS-650/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SKS-650/SKS-650/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SKS-650/SKS-650/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
-> **Tip:** To activate the snake animation, add a GitHub Actions workflow in your profile repo that generates the SVG via [Platane/snk](https://github.com/Platane/snk).
-
 ---
 
-## 🎯 Current Focus & Roadmap
+<!-- ░░░░░░░░░░░░░░░░░░░░  ROADMAP  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🎯 &nbsp;Current Focus & Roadmap
 
 <div align="center">
 
-| 🔭 Exploring | 📖 Learning | 🛠️ Building |
-|:---:|:---:|:---:|
-| LLMs & AI Agents | MLOps & Model Deployment | AI-Powered Web Apps |
-| Computer Vision (YOLO) | Cloud Architecture (AWS) | Smart IoT Systems |
-| Generative AI | Data Engineering | Open Source Projects |
-| Transformer Architectures | Kubernetes & Docker | Research Papers → Code |
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-```python
-class ShyamKishorSah:
-    def __init__(self):
-        self.name        = "Shyam Kishor Sah"
-        self.role        = "AI/ML Engineer & Full Stack Developer"
-        self.mission     = "Build intelligent systems that solve real problems"
-        self.languages   = ["Python", "C++", "JavaScript", "Java"]
-        self.interests   = ["AI Research", "Computer Vision", "Smart Systems", "Open Source"]
-        self.philosophy  = "Learn → Build → Fail → Improve → Innovate 🔁"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing 🚀")
-
-me = ShyamKishorSah()
-me.say_hi()
+```
+╔══════════════════════╦══════════════════════╦══════════════════════╗
+║  🔭  Exploring       ║  📖  Learning        ║  🛠️  Building        ║
+╠══════════════════════╬══════════════════════╬══════════════════════╣
+║  LLMs & AI Agents    ║  MLOps & Deployment  ║  AI-Powered Web Apps ║
+║  Computer Vision     ║  AWS Cloud Arch.     ║  Smart IoT Systems   ║
+║  Generative AI       ║  Data Engineering    ║  Open Source Tools   ║
+║  Transformers / NLP  ║  Kubernetes & CI/CD  ║  Research → Code     ║
+╚══════════════════════╩══════════════════════╩══════════════════════╝
 ```
 
 </div>
 
 ---
 
-## ⚡ Fun Facts
+<!-- ░░░░░░░░░░░░░░░░░░░░  FEATURED DOMAINS  ░░░░░░░░░░░░░░░░░░░░ -->
 
-- 🧠 I think in algorithms and dream in Python
-- 🌏 From Nepal, building for the world
-- 🎯 My goal: transform ideas into AI-powered realities
-- 📸 I document my learning journey on [YouTube](https://www.youtube.com/@shyamkishorsah789)
-- � Favourite quote: *"The best way to predict the future is to invent it."* — Alan Kay
-
----
+## � &nbsp;Featured Domains
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/60/artificial-intelligence.png" /><br/>
+      <strong>Artificial Intelligence</strong><br/>
+      <sub>ML · DL · Neural Networks · LLMs</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/60/camera.png" /><br/>
+      <strong>Computer Vision</strong><br/>
+      <sub>YOLO · OpenCV · CNNs · Detection</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/60/web.png" /><br/>
+      <strong>Full Stack Dev</strong><br/>
+      <sub>React · Django · Node · APIs</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/60/cloud-connection.png" /><br/>
+      <strong>Cloud & DevOps</strong><br/>
+      <sub>Docker · AWS · MLOps · CI/CD</sub>
+    </td>
+  </tr>
+</table>
 
-**🚀 Let's build the future together — one commit at a time.**
+</div>
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SKS-650)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shyam-kishor-sah-614605356/)
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  PHILOSOPHY  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## 💡 &nbsp;Developer Philosophy
+
+<div align="center">
+
+```python
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────────────────
+#   Shyam Kishor Sah  |  AI Engineer & Full Stack Developer
+# ─────────────────────────────────────────────────────────────
+
+class Developer:
+    name    = "Shyam Kishor Sah"
+    base    = "Nepal 🇳🇵"
+    mission = "Turning research into real-world impact"
+    
+    @staticmethod
+    def daily_routine():
+        while True:
+            read_papers()         # Stay current
+            write_code()          # Build things
+            break_things()        # Learn fast
+            fix_and_improve()     # Iterate
+            share_with_world()    # Give back 🌍
+    
+    @staticmethod
+    def favourite_quote():
+        return (
+            '"The best way to predict the future '
+            'is to invent it." — Alan Kay'
+        )
+
+me = Developer()
+me.daily_routine()
+```
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  FUN FACTS  ░░░░░░░░░░░░░░░░░░░░ -->
+
+## ⚡ &nbsp;Quick Facts
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🧠 | I think in algorithms and dream in Python |
+| 🌏 | From Nepal, building for the world |
+| 🎯 | Goal: transform raw ideas into AI-powered realities |
+| 📸 | I document my learning journey on [YouTube](https://www.youtube.com/@shyamkishorsah789) |
+| 🔬 | Favourite paper this year: *Attention Is All You Need* |
+| 🕹️ | Side quests: open source, hackathons, research |
+| ☕ | Fuel: strong coffee + late-night debugging sessions |
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0533,70:2d1b69,100:0d0d0d&height=140&section=footer&fontColor=C4B5FD" width="100%" />
+
+### 🤝 &nbsp;Let's Build Something Extraordinary Together
+
+<a href="https://github.com/SKS-650">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shyam-kishor-sah-614605356/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://shyamkishorsah.com.np/">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-%237C3AED.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>⭐ Star my repos if you find them useful &nbsp;·&nbsp; 💬 DM for collaborations &nbsp;·&nbsp; 🌐 <a href="https://shyamkishorsah.com.np">shyamkishorsah.com.np</a></sub>
 
 </div>
