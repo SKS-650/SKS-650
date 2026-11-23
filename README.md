@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<!-- ░░░ HERO BANNER — Vortex animated gradient ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:0d0d0d,30:1a0533,60:2d1b69,100:0d0d0d&height=280&section=header&text=Shyam%20Kishor%20Sah&fontSize=58&fontColor=FFFFFF&fontAlignY=42&stroke=7C3AED&strokeWidth=2&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=62&descFontColor=C4B5FD&animation=fadeIn" width="100%" />
+<!-- ░░░ HERO BANNER — Waving animated gradient ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0533,60:2d1b69,100:0d0d0d&height=280&section=header&text=Shyam%20Kishor%20Sah&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descSize=17&descAlignY=62&animation=fadeIn" width="100%" />
 
 <!-- ░░░ ANIMATED TYPING LINE ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision+Engineer;🌐+Full+Stack+%7C+Django+%7C+React+%7C+Node.js;�+Exploring+LLMs%2C+Agents+%26+Transformers;🚀+From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+—+Building+for+the+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Deep+Learning+%26+Computer+Vision+Engineer+%F0%9F%A7%A0;Full+Stack+%7C+Django+%7C+React+%7C+Node.js+%F0%9F%8C%90;Exploring+LLMs%2C+Agents+%26+Transformers+%F0%9F%94%AD;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%80%94+Building+for+the+World+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
