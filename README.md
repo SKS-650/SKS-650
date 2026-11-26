@@ -167,7 +167,7 @@ class ShyamKishorSah:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SKS-650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&no-bg=true" width="100%" />
+<img src="https://trophygh.kolioaris.xyz/?username=SKS-650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&no-bg=true" width="100%" />
 
 </div>
 
