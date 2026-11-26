@@ -163,11 +163,24 @@ class ShyamKishorSah:
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 &nbsp;GitHub Achievements
 
 <div align="center">
 
-<img src="https://trophygh.kolioaris.xyz/?username=SKS-650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&no-bg=true" width="100%" />
+<!-- Row 1 — Core stats cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=SKS-650&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD9E5&ring_color=7C3AED&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKS-650&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD9E5&langs_count=8" height="175" />
+
+</div>
+
+<div align="center">
+
+<!-- Row 2 — Achievement badges -->
+![Multi-Language](https://img.shields.io/badge/Multi--Language%20Coder-Python%20%7C%20C%2B%2B%20%7C%20JS%20%7C%20Java-7C3AED?style=for-the-badge&logo=code&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20%26%20ML%20Engineer-TensorFlow%20%7C%20PyTorch%20%7C%20YOLO-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Developer-Django%20%7C%20React%20%7C%20Node-5B21B6?style=for-the-badge&logo=react&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-6D28D9?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
