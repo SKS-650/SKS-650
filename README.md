@@ -192,7 +192,21 @@ class ShyamKishorSah:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKS-650&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=true&radius=8" width="100%" />
+<!-- Contribution calendar — ghchart.rshah.org is a stable long-running API -->
+<img src="https://ghchart.rshah.org/7C3AED/SKS-650" alt="SKS-650 GitHub Contribution Chart" width="100%" />
+
+<br/><br/>
+
+<!-- Profile summary cards — always online, great dark theme support -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKS-650&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SKS-650&theme=tokyonight" height="160" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKS-650&theme=tokyonight" height="160" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKS-650&theme=tokyonight" height="160" />
 
 </div>
 
